@@ -1,5 +1,3 @@
-from colorama.ansi import BEL
-from colorama.initialise import init
 import requests 
 from colorama import Fore,init
 import os
